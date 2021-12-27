@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+    background-position:center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow:10px 10px 10px chocolate;
+    border-radius:15px;
+}
+
+
+#Phone{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom:25px;
+    background-color:lightseagreen;
+    border:5px;
+    border-radius:20px;
+}
+
+#Plant{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom:25px;
+    background-color:chocolate;
+    border:5px;
+    border-radius:20px;
+}
+
+#AC{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom:25px;
+    background-color:salmon;
+    border:5px;
+    border-radius:20px;
+}
